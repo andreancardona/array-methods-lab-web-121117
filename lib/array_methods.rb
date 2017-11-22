@@ -5,6 +5,7 @@ def using_include(array, element)
   using_include.include?("Tardis")
   => false
 end
+end 
 
 def using_sort(array)
 
