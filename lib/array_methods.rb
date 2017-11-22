@@ -1,8 +1,8 @@
 def using_include(array, element)
    using_include = ["wow", "I", "am", "really", "learning", "arrays!"]
-  famous_cats.include?("wow")
+  using_include.include?("wow")
   => true
-famous_cats.include?("Tardis")
+  using_include.include?("Tardis")
   => false
 end
 
